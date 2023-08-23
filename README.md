@@ -62,3 +62,8 @@ Type of ML and DL algorithms that are used in it.
 2. Random Forest Regressor proves to be an effective model for predicting empathy based on gaze metrics.
 3. K-Means clustering reveals inherent groupings within the data, which can be useful for targeted interventions.
 4. The findings have implications in both clinical and social contexts, merging psychology and technology.
+
+### Data Sources
+Raw data
+Eye-tracking movements
+Questionnaire
