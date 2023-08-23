@@ -64,6 +64,4 @@ Type of ML and DL algorithms that are used in it.
 4. The findings have implications in both clinical and social contexts, merging psychology and technology.
 
 ### Data Sources
-Raw data
-Eye-tracking movements
-Questionnaire
+1. Raw data 2. Eye-tracking movements 3. Questionnaire
